@@ -1,2 +1,2 @@
-# vue-admin
+# vue-element-admin
 vue
